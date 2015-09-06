@@ -17,3 +17,5 @@ Just download this folder and get started!
 - /index.erb (Empty file besides a centered header, ready to be created)
 - /show.erb (Empty show file)
 
+
+Don't forget to $ bundle install

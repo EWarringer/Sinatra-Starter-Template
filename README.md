@@ -8,10 +8,6 @@ Just download this folder and get started!
 - schema.sql (empty SQL file)
 - server.rb (Basic server with a '/' redirect to '/new_project', connected to index.erb)
 
-/models Folder (empty)
-
-/spec Folder (empty)
-
 /public Folder
 - /styles.css (CSS file that starts with a skyblue background and centered header)
 - /app.js (Javascript/jquery file with an empty "document ready" function)

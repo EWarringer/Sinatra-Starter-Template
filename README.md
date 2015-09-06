@@ -5,7 +5,6 @@ Just download this folder and get started!
 /new_project_template (root directory)
 - .rspec (.rspec file with --color and --fail-fast)
 - Gemfile (with sinatra, sinatra-reloader, sinatra-active-record, pg, rake, pry, rspec, capybara, and launchy)
-- Gemfile.lock
 - schema.sql (empty sql file)
 - server.rb (Basic server with a '/' redirect to '/new_project')
 

@@ -6,7 +6,7 @@ Just download this folder and get started!
 - .rspec (.rspec file with --color and --fail-fast)
 - Gemfile (with sinatra, sinatra-reloader, sinatra-active-record, pg, rake, pry, rspec, capybara, and launchy)
 - schema.sql (empty SQL file)
-- server.rb (Basic server with a '/' redirect to '/new_project')
+- server.rb (Basic server with a '/' redirect to '/new_project', connected to index.erb)
 
 /models Folder (empty)
 

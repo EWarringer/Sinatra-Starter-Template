@@ -1,5 +1,5 @@
 # Sinatra-Starter-Template
-A simple sinatra setup to avoid repeating the beginning steps every time you make a new sinatra app. 
+A simple sinatra setup to avoid repeating the beginning steps every time you make a new sinatra app.
 Just download this folder and get started!
 
 /new_project_template (root directory)
@@ -9,8 +9,11 @@ Just download this folder and get started!
 - server.rb (Basic server with a '/' redirect to '/new_project', connected to index.erb)
 
 /models Folder (empty)
+- NewClass.rb
 
 /spec Folder (empty)
+- models/NewClass_spec.rb
+- spec_helper.rb
 
 /public Folder
 - /styles.css (CSS file that starts with a skyblue background and centered header)
@@ -20,4 +23,3 @@ Just download this folder and get started!
 - /layout.erb (Simple layout erb file with the basic 'head' setup. Connected to css file)
 - /index.erb (Empty file besides a centered header, ready to be created)
 - /show.erb (Empty show file)
-

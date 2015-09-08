@@ -8,6 +8,7 @@ Just download this folder and get started!
 - schema.sql (empty SQL file)
 - server.rb (Basic server with a '/' redirect to '/new_project', connected to index.erb)
 
+<<<<<<< HEAD
 /models Folder (empty)
 - NewClass.rb
 
@@ -15,6 +16,8 @@ Just download this folder and get started!
 - models/NewClass_spec.rb
 - spec_helper.rb
 
+=======
+>>>>>>> 510f661948e394066a1bb008c2085be09b641160
 /public Folder
 - /styles.css (CSS file that starts with a skyblue background and centered header)
 - /app.js (Javascript/jquery file with an empty "document ready" function)
@@ -23,3 +26,9 @@ Just download this folder and get started!
 - /layout.erb (Simple layout erb file with the basic 'head' setup. Connected to css file)
 - /index.erb (Empty file besides a centered header, ready to be created)
 - /show.erb (Empty show file)
+<<<<<<< HEAD
+=======
+
+
+Don't forget to $ bundle install
+>>>>>>> 510f661948e394066a1bb008c2085be09b641160
